@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryVariant">#003c8f</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#26A69A</color>
+
+    <!-- Background -->
+    <color name="background">#F5F7FA</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B7280</color>
+
+    <!-- Grade badge colours -->
+    <color name="grade_a">#2E7D32</color>  <!-- green  -->
+    <color name="grade_b">#1565C0</color>  <!-- blue   -->
+    <color name="grade_c">#F57F17</color>  <!-- amber  -->
+    <color name="grade_d">#E65100</color>  <!-- orange -->
+    <color name="grade_f">#C62828</color>  <!-- red    -->
+</resources>

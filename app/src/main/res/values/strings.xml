@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Grade Calculator</string>
+    <string name="btn_upload_grades">Upload Grades File</string>
+    <string name="upload_title">Grade Calculator</string>
+    <string name="upload_subtitle">Select an Excel (.xlsx) file containing\nstudent IDs, names and subject scores</string>
+    <string name="empty_state_hint">Upload an Excel file to see student grades here.</string>
+    <string name="upload_icon_desc">Upload icon</string>
+</resources>
